@@ -1,7 +1,7 @@
 # Neighbourhood Map
 This is my 7th project of Udacity ND.
 This contains Petrol Bunks near my area in an single page application.
-
+I referred forest walker channel to do this project
 ## Getting Started
 
 - Download the zip file or clone using the command in the terminal.
